@@ -1,0 +1,175 @@
+﻿@model IEnumerable<_Zadatko.Models.Zadaci>
+@using Microsoft.AspNet.Identity;
+@using _Zadatko.Extensions;
+@using System.Text.RegularExpressions;
+
+@{
+    ViewBag.Title = "Moji zadaci";
+}
+<!--ukoliko nisu sva imena korisnika u bazi napisana prvim slovim velikim:-->
+<h2>Bok @Regex.Replace(User.Identity.GetIme(), @"^\w", m => m.Value.ToUpper()) ! Ovo su tvoji zadaci: @ViewBag.testic</h2>
+<hr/>
+
+
+<div class="row">
+    <div class="col-lg-5">
+        @Html.ActionLink("Dodaj novi zadatak", "Create", null, new { @class = "btn btn-default" })
+    </div>
+    <div class="col-lg-7">
+
+       <!-- filter pretraga s 4 razlciita parametra: i mogucnoscu pretrage po nazivu-->
+            @using (@Html.BeginForm("Index", "Zadaci", FormMethod.Get))
+            {
+                <b>Način prikaza:</b>
+                @Html.RadioButton("searchBy", "Svi", true) <text>Svi</text>
+                @Html.RadioButton("searchBy", "Utijeku") <text>U tijeku</text>
+                @Html.RadioButton("searchBy", "Obavljene") <text>Obavljeni</text>
+                @Html.RadioButton("searchBy", "Istekli") <text>Istekli</text>
+                @Html.RadioButton("searchBy", "Kljucne") <text>Ključne riječi</text>
+                <br />
+               
+               @Html.TextBox("search") <input type="submit" value="Prikaži" class="btn btn-default tanki" />
+               
+               
+            }
+       
+
+    </div>
+    </div>
+<hr/>
+
+
+ <div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+            @foreach (var item in Model)
+            {
+                //dakle,prikazujem zadatke samo onog korisnika koji je trenutno ulogiran. ("marka ne zanimaju zadaci koje ima luka"):
+                if (item.KorisnikID == User.Identity.GetUserId())
+                {
+
+                        <div class="post-preview">
+                            <a>
+                                <h2 class="post-title">
+                                    @{bool Zakasnio = false;}
+
+                                   @{  
+                                       if (item.PostotnaRjesenostZadatka == 100)
+                                       {
+                                           //ako je progress na 100%,znaci da je zadatak obavljen u cijelosti
+                                           //pa kao indikator postavljam ikonu kvačice
+                                        <span class="fa-stack fa-md" title="obavljeno">
+                                            <i class="fa fa-circle fa-stack-2x"></i>
+                                            <i class="fa fa-check fa-stack-1x fa-inverse"></i>
+                                        </span>
+
+                                       }
+                                       else if (item.RokObavljanja < DateTime.Now)
+                                       {
+                                           //ako je progres manji od 100%, a rok obavljanja zadatka je vec prosao ,onda to znaci
+                                           //da korisnik nije ispostivao rok koji je sam sebi zadao,pa prema tome stavljam simbol
+                                           //"x" kraj objave zadatka (posta)
+                                           Zakasnio = true;
+                                            <span class="fa-stack fa-md" title="obavljeno">
+                                                <i class="fa fa-circle fa-stack-2x"></i>
+                                                <i class="fa fa-times fa-stack-1x fa-inverse"></i>
+                                            </span>
+                                       }
+                                       else
+                                        {
+                                            //inace,zadatak se jos uvijek obavlja pa stavljam ikonu olovke i kartončića
+                                                <span class="fa-stack fa-md" title="u tijeku">
+                                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                                    <i class="fa fa-pencil fa-stack-1x fa-inverse"></i>
+                                                </span>
+                                        }
+                                      }
+                                    @Html.DisplayFor(modelItem => item.Naziv)
+                                </h2>
+                                <h3 class="post-subtitle">
+                                    @Html.DisplayFor(modelItem => item.KratkiOpis)
+                                </h3>
+                            </a>
+                            
+                            @Html.DisplayFor(modelItem => item.Vaznost)
+                            <span class="fa-stack fa-lg" title="vaznost">
+                                <i class="fa fa-circle fa-stack-1x"></i>
+                                <i class="fa fa-exclamation fa-stack-1x fa-inverse"></i>
+                            </span>
+                            @Html.DisplayFor(modelItem => item.Tezina)
+                            <span class="fa-stack fa-lg" title="tezina">
+                                <i class="fa fa-circle fa-stack-1x"></i>
+                                <i class="fa fa-gears fa-stack-1x fa-inverse"></i>
+                            </span>
+
+                            <!--napravljeni progres u postoticma:-->
+                          
+                            <div class="progress">
+                                @{
+
+                                    if (item.PostotnaRjesenostZadatka == 100 || Zakasnio == true)
+                                    {
+                                        <div class="progress-bar" role="progressbar"
+                                             aria-valuenow=@item.PostotnaRjesenostZadatka.ToString() aria-valuemin="0" aria-valuemax="100" style="width:@item.PostotnaRjesenostZadatka%">
+                                            @Html.DisplayFor(modelItem => item.PostotnaRjesenostZadatka)%
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                         <div class="progress-bar progress-bar-striped active" role="progressbar"
+                                     aria-valuenow=@item.PostotnaRjesenostZadatka.ToString() aria-valuemin="0" aria-valuemax="100" style="width:@item.PostotnaRjesenostZadatka%">
+                                    @Html.DisplayFor(modelItem => item.PostotnaRjesenostZadatka)%
+                                </div>
+                                    }
+                                 }
+                               
+                                    
+                            </div>  
+
+                            <!--ovaj id sam ispisivao samo u svrhu debugiranja ,al inace to korisniku ne treba bit vidljivo
+                            <h3 class="post-subtitle">id | @Html.DisplayFor(modelItem => item.KorisnikID) </h3>
+                             -->
+
+                            @{
+                                if (Zakasnio == true)
+                                {
+                                    <p class="post-meta" id="zakasnio"> Ovaj zadatak ste trebali napraviti <b>najkasnije</b> do: @Html.DisplayFor(modelItem => item.RokObavljanja) </p>
+                                }
+                                else
+                                {
+                                    if (item.PostotnaRjesenostZadatka == 100)
+                                    {
+                                        <p class="post-meta" id="uspio"> Zadatak je obavljen. (Krajnji rok je bio: @Html.DisplayFor(modelItem => item.RokObavljanja)) </p>
+                                    }
+                                    else
+                                    {
+                                        <p class="post-meta"> Napraviti najkasnije do: @Html.DisplayFor(modelItem => item.RokObavljanja) </p>
+                                    }
+
+                                }
+                            }
+                           
+
+
+                            @Html.ActionLink("Uredi", "Edit", new { id = item.Id }) |
+                            @Html.ActionLink("Detalji", "Details", new { id = item.Id }) |
+                            @Html.ActionLink("Izbriši", "Delete", new { id = item.Id })
+                              
+                        </div>
+                        <hr>
+                }
+            }
+
+         
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+

@@ -1,0 +1,186 @@
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\ApplicationInsights.config
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\csc.exe
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\System.Collections.Immutable.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\vbc.exe
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\VBCSCompiler.exe
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\roslyn\VBCSCompiler.exe.config
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\_Zadatko.dll.config
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\_Zadatko.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\_Zadatko.pdb
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Antlr3.Runtime.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\EntityFramework.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\EntityFramework.SqlServer.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.Web.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.WindowsServer.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.ApplicationInsights.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.Google.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Web.Infrastructure.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Newtonsoft.Json.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Owin.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.Helpers.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.Mvc.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.Optimization.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.Razor.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.WebPages.Deployment.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.WebPages.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.WebPages.Razor.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\WebGrease.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.Web.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AI.WindowsServer.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.ApplicationInsights.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.Helpers.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.Mvc.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.Optimization.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.Razor.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.WebPages.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.WebPages.Deployment.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\System.Web.WebPages.Razor.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Antlr3.Runtime.pdb
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Newtonsoft.Json.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\EntityFramework.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\EntityFramework.SqlServer.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.Google.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\obj\Debug\_Zadatko.csprojResolveAssemblyReference.cache
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\obj\Debug\_Zadatko.dll
+c:\users\trejser ivan\documents\visual studio 2015\Projects\_Zadatko\_Zadatko\obj\Debug\_Zadatko.pdb
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\bin\WebMatrix.Data.dll
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\bin\WebMatrix.WebData.dll
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\bin\WebMatrix.Data.xml
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\bin\WebMatrix.WebData.xml
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\bin\Microsoft.Web.Helpers.dll
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\obj\Debug\_Zadatko.Migrations.InitialCreate.resources
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\obj\Debug\_Zadatko.csproj.GenerateResource.Cache
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\bin\PagedList.dll
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\bin\PagedList.Mvc.dll
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\bin\PagedList.xml
+C:\Users\Trejser Ivan\Documents\Visual Studio 2015\Projects\_Zadatko\_Zadatko\bin\PagedList.Mvc.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\ApplicationInsights.config
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\csc.exe
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\vbc.exe
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\VBCSCompiler.exe
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\_Zadatko.dll.config
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\_Zadatko.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\_Zadatko.pdb
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Antlr3.Runtime.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\EntityFramework.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\EntityFramework.SqlServer.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.Web.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Web.Helpers.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Newtonsoft.Json.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Owin.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\PagedList.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\PagedList.Mvc.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.Helpers.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.Mvc.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.Optimization.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.Razor.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.WebPages.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.WebPages.Razor.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\WebGrease.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\WebMatrix.Data.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\WebMatrix.WebData.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.Web.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\PagedList.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\PagedList.Mvc.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.Mvc.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.Helpers.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.Optimization.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.Razor.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.WebPages.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\System.Web.WebPages.Razor.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Antlr3.Runtime.pdb
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\WebMatrix.Data.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\WebMatrix.WebData.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Newtonsoft.Json.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\EntityFramework.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\EntityFramework.SqlServer.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\obj\Debug\_Zadatko.csprojResolveAssemblyReference.cache
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\obj\Debug\_Zadatko.Migrations.InitialCreate.resources
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\obj\Debug\_Zadatko.csproj.GenerateResource.Cache
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\obj\Debug\_Zadatko.dll
+C:\Users\GTadeon\Desktop\Zadatko-Web-aplikacija-za-Task-Management\_ZadatkoMoj\_Zadatko\obj\Debug\_Zadatko.pdb

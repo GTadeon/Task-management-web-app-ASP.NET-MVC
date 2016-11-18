@@ -1,0 +1,73 @@
+﻿@model _Zadatko.Models.Zadaci
+
+@{
+    ViewBag.Title = "Brisanje zadatka";
+}
+
+<h2>Izbriši</h2>
+
+<h3>Jeste li sigurni da želite izbrisati ovaj zadatak?</h3>
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Naziv):
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Naziv)
+        </dd>
+
+        <dt>
+            Težina (1-10):
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tezina)
+        </dd>
+
+        <dt>
+            Važnost (1-10):
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vaznost)
+        </dd>
+
+        <dt>
+            Kratki opis:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KratkiOpis)
+        </dd>
+
+        <dt>
+            Rok obavljanja:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RokObavljanja)
+        </dd>
+
+        <dt>
+            Do sada rješeno: (u %)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PostotnaRjesenostZadatka)
+        </dd>
+
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Izbriši" class="btn btn-default" /> |
+            @Html.ActionLink("Povratak na popis", "Index")
+        </div>
+    }
+</div>

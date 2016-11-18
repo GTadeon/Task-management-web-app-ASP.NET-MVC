@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Zadatko";
+}
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Što je zadatko?</h2>
+        <p>
+            Zadatko je web aplikacija izrađena za potrebe kolegija programiranje web 2.0 aplikacija na odsjeku za
+             informacijske i komunikacijske znanosti Filozofskog fakulteta Sveučilišta u Zagrebu (ak.god 2015/2016).
+            <br/> Development: Ivan Grobenski (ivgroben@ffzg.hr)
+        </p>
+        @Html.ActionLink("Saznaj više", "About", "Home",null, new { @class = "btn btn-default" })
+      
+    </div>
+    <div class="col-md-4">
+        <h2>Zašto zadatko?</h2>
+        <p>Zato jer omogućava lako i pregledno upravljanje svakodnevnim obavezama/taskovima/zadacima. 
+        Zato jer pamti stanje svih vaših zadataka i daje vam potpunu kontrolu nad njima. 
+        Zato jer čuva šume štedeći na papirnatim rokovnicima.</p>
+
+        @Html.ActionLink("Registrirajte se", "Register", "Account", null, new { @class = "btn btn-default" })
+    </div>
+    <div class="col-md-4">
+        <h2>Već ste korisnik?</h2>
+        <p>Lijepo je vidjeti Vas opet. Ulogirajte se i čekirajte koji zadaci Vas danas sve čekaju.
+        <br/> Saznajte jel Vas čeka pakleni vikend ili možda, pak, neradni ponedjeljak. :) </p>
+
+        @Html.ActionLink("Ulogirajte se", "Login", "Account", null, new { @class = "btn btn-default" })
+    </div>
+</div>
